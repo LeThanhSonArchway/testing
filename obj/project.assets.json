@@ -9652,16 +9652,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Linh\\Desktop\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Linh\\Desktop\\testt\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Linh\\Desktop\\Test\\Test.csproj",
-      "outputPath": "C:\\Users\\Linh\\Desktop\\Test\\obj\\",
+      "projectPath": "C:\\Users\\Linh\\Desktop\\testt\\Test.csproj",
+      "outputPath": "C:\\Users\\Linh\\Desktop\\testt\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/Test.dll": "C:\\Users\\Linh\\Desktop\\Test\\bin\\placeholder\\netcoreapp1.1\\Test.dll"
+        "lib/netcoreapp1.1/Test.dll": "C:\\Users\\Linh\\Desktop\\testt\\bin\\placeholder\\netcoreapp1.1\\Test.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
